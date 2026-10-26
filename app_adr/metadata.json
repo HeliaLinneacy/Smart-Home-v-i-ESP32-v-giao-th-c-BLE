@@ -1,0 +1,6 @@
+{
+  "name": "ESP32 BLE Terminal",
+  "description": "Ứng dụng giao tiếp Bluetooth và BLE điều khiển ESP32, hỗ trợ cấu hình UUID, terminal và điều khiển thiết bị.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
